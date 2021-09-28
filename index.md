@@ -5,7 +5,7 @@
 **Hi! My name is Tina and this is my first lab project in my software development class (CSE 110). The purpose of this lab is to give an introduction to who I am as a programmer and a person.**
 
 ## Basic Info
-- **College: Revelle**
+- **College: Revelle at UCSD**
 - **Major: Math-CS**
 - **Year: 4th**
 
@@ -26,14 +26,14 @@ You can find screenshots of my command line git transactions and staged commit f
 
 ## Outside of school, I like to...
 - Explore new music
-- Hike! Below is a picture of my most recent hike at [Potato Chip Rock](https://en.wikipedia.org/wiki/Potato_Chip_Rock) in San Diego! ![picture](images/potatochip.jpg)
+- Hike! Below is a picture of my most recent hike at [Potato Chip Rock](https://en.wikipedia.org/wiki/Potato_Chip_Rock) in San Diego! ![picture](screenshots/potatochip.jpg)
 You can find a list of hikes in San Diego I have/have not checked off [here](#hikes)!
   
 <a name="screenshots"></a> 
 
 ## Screenshots on this Lab
-- ![command line git transactions](images/clgt.png)
-- ![staged commit](images/staged.png)
+- ![command line git transactions](screenshots/clgt.png)
+- ![staged commit](screenshots/staged.png)
 
 <a name="hikes"></a> 
 ## List of Hikes in San Diego
