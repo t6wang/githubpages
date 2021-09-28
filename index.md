@@ -26,7 +26,7 @@ You can find screenshots of my command line git transactions and staged commit f
 
 ## Outside of school, I like to...
 - Explore new music
-- Hike! Below is a picture of my most recent hike at ![Potato Chip Rock](https://en.wikipedia.org/wiki/Potato_Chip_Rock) in San Diego! ![picture](images/potatochip.jpg)
+- Hike! Below is a picture of my most recent hike at [Potato Chip Rock](https://en.wikipedia.org/wiki/Potato_Chip_Rock) in San Diego! ![picture](images/potatochip.jpg)
 You can find a list of hikes in San Diego I have/have not checked off [here](#hikes)!
   
 <a name="screenshots"></a> 
