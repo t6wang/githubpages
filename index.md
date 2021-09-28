@@ -35,6 +35,7 @@ You can find a list of hikes in San Diego I have/have not checked off [here](#hi
 - ![command line git transactions](images/clgt.png)
 - ![staged commit](images/staged.png)
 
+<a name="hikes"></a> 
 ## List of Hikes in San Diego
 - [x] Potato Chip Rock
 - [x] Torrey Pines State Park
