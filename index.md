@@ -1,6 +1,6 @@
 <a name="my_name"></a>
 
-# Tina Wang's User Page
+# Tina's Github Page
 
 **Hi! My name is Tina and this is my first lab project in my software development class (CSE 110). The purpose of this lab is to give an introduction to who I am as a programmer and a person.**
 
